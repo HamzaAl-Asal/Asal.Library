@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asal.Library.core", "Asal.Library.core\Asal.Library.core.csproj", "{D65708C9-5B8B-4E9A-A856-4BECBE33910E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asal.Library.Abstraction", "Asal.Library.Abstraction\Asal.Library.Abstraction.csproj", "{BCD4ED39-FC46-440F-A9C3-F7926AB5722E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65708C9-5B8B-4E9A-A856-4BECBE33910E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65708C9-5B8B-4E9A-A856-4BECBE33910E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65708C9-5B8B-4E9A-A856-4BECBE33910E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65708C9-5B8B-4E9A-A856-4BECBE33910E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD4ED39-FC46-440F-A9C3-F7926AB5722E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD4ED39-FC46-440F-A9C3-F7926AB5722E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD4ED39-FC46-440F-A9C3-F7926AB5722E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD4ED39-FC46-440F-A9C3-F7926AB5722E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {380E2EDA-1810-4A17-90B7-8968D220800A}
+	EndGlobalSection
+EndGlobal

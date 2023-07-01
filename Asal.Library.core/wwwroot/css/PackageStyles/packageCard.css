@@ -1,0 +1,10 @@
+﻿.package-card-body {
+  min-height: 150px;
+  margin: 10px;
+  border: 0.5px solid rgba(0, 0, 0, 0.125); }
+  .package-card-body .pmc-section {
+    text-align: center;
+    background-color: skyblue;
+    border-radius: 10px; }
+  .package-card-body .read-me-text-section {
+    word-break: break-word; }
